@@ -28,3 +28,6 @@ What to do Next:
 - Find data from other sources
 - Train an NLP model with the labeled data to automatically detect if new incidents are relevant for this project
 - Make a pipeline so new incidents can be added automatically
+
+![lgbt_preview](https://user-images.githubusercontent.com/77271778/132095790-a5430552-ec4d-481d-9942-7fe56ec3c6d2.gif)
+
